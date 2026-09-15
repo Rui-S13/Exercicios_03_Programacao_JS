@@ -1,0 +1,28 @@
+body {
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+    line-height: 100%;
+}
+
+h1 {
+    font-size: 32px;
+    color: red
+}
+
+h2 {
+    font-size: 24px;
+    color: purple
+}
+
+p {
+    font-size: 16px;
+    color: blue
+}
+
+.c-first-paragraph {
+    color:green
+}
+
+#c-strongest-rule {
+    color: hotpink
+}
